@@ -1,4 +1,4 @@
-# Coffee Menu - FreeCodeCamp Project
+# Cafe Menu - FreeCodeCamp Project
 
 This project was created as part of the FreeCodeCamp basic CSS course. 
 The goal was to design an interactive coffee shop menu using the CSS skills learned throughout the course. 
